@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Tee2753
+- 👀 I’m interested in tarot and classical music
+- 🌱 I’m currently learning HTML,CSS, JavaScript, M.E.R.N stack.
